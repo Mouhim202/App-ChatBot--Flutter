@@ -25,7 +25,7 @@
 
 1. Clone the repo:
    ```bash
-   git 
+   git https://github.com/Mouhim202/App-ChatBot--Flutter.git
    cd chatbot-flutter
    ```
 
