@@ -26,7 +26,7 @@
 1. Clone the repo:
    ```bash
    git https://github.com/Mouhim202/App-ChatBot--Flutter.git
-   cd chatbot-flutter
+   cd App-ChatBot--Flutter
    ```
 
 2. Add your `.env` file:
